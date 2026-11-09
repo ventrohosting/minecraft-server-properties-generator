@@ -2,7 +2,7 @@
 
 Erstelle deine server.properties per Klick: MOTD, Schwierigkeit, Spielmodus, Sichtweite, Whitelist und mehr. Mit Erklärung und Download.
 
-**Online nutzen:** [Minecraft server.properties Generator](https://ventrohosting.com/tools/minecraft-server-properties-generator) · Demo: https://dannytheone.github.io/minecraft-server-properties-generator/
+**Online nutzen:** [Minecraft server.properties Generator](https://ventrohosting.com/tools/minecraft-server-properties-generator) · Demo: https://ventrohosting.github.io/minecraft-server-properties-generator/
 
 ## Funktionen
 
